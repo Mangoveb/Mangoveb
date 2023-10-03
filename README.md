@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Mangoveb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ai
+- 🌱 I’m currently learning it
+- 💞️ I’m looking to collaborate on ar
+- 
+- 📫 How to reach me +263712211807
 
 <!---
 Mangoveb/Mangoveb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
